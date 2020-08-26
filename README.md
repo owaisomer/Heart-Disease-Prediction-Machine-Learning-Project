@@ -1,5 +1,5 @@
 # myFYP
-To get insight of this project download myFYP.rar
+To get insight \n download myFYP.rar
 extract files and view code.
 
 Main Requirements:
